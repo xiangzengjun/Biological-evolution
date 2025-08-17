@@ -1,5 +1,5 @@
 这是一个单细胞生物进化模拟程序:
-![可视界面](images/evolution_charts.jpg)
+![可视界面](images/capture_20250817163143319.png)
 1. 生物系统
 
 DNA编码 ：每个生物有8个特征基因：
